@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey there!
 
-<!--
-**vildenumme/vildenumme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm Vilde, a **Cybersecurity student** with a background in IT support and a deep interest in **threat intelligence** and **analysis**.  
+I enjoy understanding how things connect, from systems and networks to human behavior; and uncovering what really happens behind the scenes.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently learning  
+- Cybersecurity fundamentals  
+- Threat intelligence & analysis  
+- Python for security automation  
+- Networking & ethical hacking basics  
+
+---
+
+### 📫 Fun facts: 
+- I prefer rain over sunshine
+- I believe every setup looks better with LED lights
+- I enjoy documenting things almost as much as doing them 
+- I have more screenshots of book quotes than photos of people
