@@ -3,8 +3,6 @@
 💻 I'm Vilde, a **Cybersecurity student** with a background in IT support and a deep interest in **threat intelligence** and **analysis**.  
 I enjoy understanding how things connect, from systems and networks to human behavior; and uncovering what really happens behind the scenes.  
 
-![giphy (2)](https://github.com/user-attachments/assets/d87c2abd-6192-4e4d-9bb5-6539acb679a2)
-
 ---
 
 ### 🧠 Currently learning  
