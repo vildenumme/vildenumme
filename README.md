@@ -8,7 +8,7 @@ I enjoy understanding how things connect, from systems and networks to human beh
 ### 🧠 Currently learning  
 - Cybersecurity fundamentals  
 - Threat intelligence & analysis  
-- Python for security automation  
+- Programming with javascript 
 - Networking & ethical hacking basics  
 
 ---
