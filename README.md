@@ -1,7 +1,6 @@
 # 👋 Hey there!
 
-💻 I'm Vilde, a **Cybersecurity student** with a background in IT support and a strong interest in **threat intelligence**, **analysis** and **digital forensics**.  
-I enjoy understanding how things connect, from systems and networks to human behavior.
+💻 I'm Vilde, a **Cybersecurity student** with a background in IT support and a strong interest in **threat intelligence**, **analysis** and **digital forensics**.  I enjoy understanding how things connect, from systems and networks to human behavior.
 
 ---
 
